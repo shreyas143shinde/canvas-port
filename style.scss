@@ -83,30 +83,6 @@ body {
             .btn-holder:hover{
                 background: transparent;
             }
-            .btn-2{
-            background: transparent;
-            box-shadow: none !important;
-            border-radius: 26px;
-            font-weight: 500;
-            height: 46px;
-            line-height: 46px;
-            font-size: 15px;
-            text-transform: uppercase;
-            color: #ffb400;
-            padding: 0 33px;
-            outline: none !important;
-            overflow: hidden;
-            display: inline-block;
-            position: relative;
-            font-family: 'Poppins', sans-serif;
-            letter-spacing: .5px;
-            text-decoration: none;
-            border: 1px solid #ffb400;
-            }
-            .btn-2:hover{
-                background: #ffb400;
-                color: #fff;
-            }
     }
 }
 @media (max-width:768px) {
@@ -114,6 +90,7 @@ body {
         display: none;
     }
 }
+
 canvas {
     position: absolute;
   width: 100%;
